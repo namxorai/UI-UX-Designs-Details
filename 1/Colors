@@ -35,3 +35,53 @@ Purple :
 Pink :
        Charming, Cheerful, Feminine, Gentale, Nurturing,
        Sincerity, Soft, Sophistication, Tranquility, Warmth.
+
+Brown :
+       Nature, Outdoorsy, Realibility, Ruggedeness, Security,
+       Support, Tough.
+
+Black :
+        Dignified, Efficiency, Elegance, Emotional Safety, Glamour,
+        Power, Richness, Ruggedeness, Security, Sophistication, Stately,
+        Substance, Tough ,Upper Class.
+
+White :
+        Clam, Clarity, Cleanness, Down-to-Earth, Happiness, Heavens, Honest,
+        Hygiene, Innoceonce, Peace, Purity, Serenity, Sincerity, Soothing, Tender.
+
+
+
+        We can't make a design by using single colors at least there should be 3 differents 
+        colors i.e
+
+        1. Primaary colors
+        2. Secondary colors 
+        3. Accent colors (colors i.e like in a final form or like the colors in CTA(call to action) 
+                           buttom or , High Priority section which only used 10 % around only  )
+
+
+
+To find a Colors Wheel Search :
+
+Adobe Color Wheel 
+
+There are two types of color in colors wheel i.e
+a. Warm Colors 
+b. Cool Colors
+
+In a Circle of Colors Wheel the diameters seperates the colors from diameter to the top point 
+we called it as a warm colors and from diameter to buttom points we called it as cool colors.
+
+Each Colors has 256 different Sets 
+lets take an example 
+
+RGB ( Red Green Blue )
+each differents colors has 256 differents parts 
+so 256 * 256 * 256 = 16777216 
+
+The Depth of the Colors are Follows
+
+8,10,16,32 Bits
+Above Them also We mostly used 8 and 10 only 
+for Social Media We used 8 bits
+And for movies 10 bits 
